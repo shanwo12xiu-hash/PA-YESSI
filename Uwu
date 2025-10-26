@@ -117,7 +117,9 @@
         document.getElementById("question").innerText = questions[current];
       } else {
         document.getElementById("question").innerText =
-          "Eso fue todo. El Gato Cósmico te aprueba con un ronroneo universal.";
+          ""Feliz cumpleaños, Yessii
+
+Que este año tengas la calma de un gato dormido al sol...";
       }
     }
   </script>
